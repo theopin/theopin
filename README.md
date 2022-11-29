@@ -14,12 +14,8 @@
 ### Glad to see you here!  
 I’m a full-stack developer who has had experience developing applications and features on Frontend, Backend as well as DevOps environments. 
 
-Adopting a full-stack mindset has allowed me to not only limit myself to simply developing backend applications that facilitate data operations, but to create web applications that can visualize such data as well as implementing appropriate DevOps process such as CI/CD to bring about an ease of development of such projects.
+Adopting a full-stack mindset has allowed me to not only limit myself to simply developing applications running behind the scenes, but to create web applications that can visualize such data as well as implementing useful deployment pipelines to automate testing and deployment of such projects.
 
-  
-  
-
-<br/>  
 
 
 ## Rapidfire  
@@ -34,8 +30,6 @@ Adopting a full-stack mindset has allowed me to not only limit myself to simply 
   
 
 - ⚡I love exploring new languages (not just tech-related! 😀)  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -97,9 +91,7 @@ Adopting a full-stack mindset has allowed me to not only limit myself to simply 
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>  
-
-<br/>  
-
+ 
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -112,19 +104,12 @@ Adopting a full-stack mindset has allowed me to not only limit myself to simply 
 
 </td></tr></table>  
 
-<br/>  
 
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=theopin&&style=flat-square)  
   
 
-<br/>  
 
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

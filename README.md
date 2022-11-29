@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has had experience developing applications on the Frontend, Backend as well as DevOps environments. 
+I’m a full-stack developer who has had experience developing applications and features on Frontend, Backend as well as DevOps environments. 
 
 Adopting a full-stack mindset has allowed me to not only limit myself to simply developing backend applications that facilitate data operations, but to create web applications that can visualize such data as well as implementing appropriate DevOps process such as CI/CD to bring about an ease of development of such projects.
 
@@ -23,7 +23,6 @@ Adopting a full-stack mindset has allowed me to not only limit myself to simply 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 📖 I am currently studying at the [National University of Singapore](https://www.nus.edu.sg/)  
   
@@ -35,14 +34,6 @@ Adopting a full-stack mindset has allowed me to not only limit myself to simply 
   
 
 - ⚡I love exploring new languages (not just tech-related! 😀)  
-
-
-</td><td valign="top" width="50%">
-
-![]()  
-
-
-</td></tr></table>  
 
 <br/>  
 

@@ -23,7 +23,7 @@ Adopting a full-stack mindset has allowed me to not only limit myself to simply 
 - 📖 I am currently studying at the [National University of Singapore](https://www.nus.edu.sg/)  
   
 
-- 🔭 My latest project was [Peerprep](https://github.com/theopin/peeprep)  
+- 🔭 My latest project was [Peerprep](https://github.com/theopin/peerprep)  
   
 
 - 🌱 I’m currently exploring project ideas to work on in my free time  

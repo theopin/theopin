@@ -20,16 +20,13 @@ Adopting a full-stack mindset has allowed me to not only limit myself to simply 
 
 ## Rapidfire  
 
-- 📖 I am currently studying at the [National University of Singapore](https://www.nus.edu.sg/)  
-  
+- 📖 I hold a Bachelor's (Honours) degree in [Computer Engineering](https://ceg.nus.edu.sg/) from the [National University of Singapore](https://www.nus.edu.sg/).
 
-- 🔭 My latest project was [Peerprep](https://github.com/theopin/peerprep)  
-  
+- 🔭 My latest project was [Peerprep](https://github.com/theopin/peerprep).
 
-- 🌱 I’m currently exploring project ideas to work on in my free time  
-  
+- 🌱 I’m currently exploring project ideas to work on in my free time.
 
-- ⚡I love exploring new languages (not just tech-related! 😀)  
+- ⚡ I love exploring new languages (not just tech-related! 😀).
 
 
 ## Languages and Tools  
@@ -105,12 +102,6 @@ Adopting a full-stack mindset has allowed me to not only limit myself to simply 
 
 </td></tr></table>  
 
-
-
-![Profile views counter](https://komarev.com/ghpvc/?username=theopin&&style=flat-square)  
-  
-
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">  
+<img src="https://komarev.com/ghpvc/?username=theopin&&style=flat-square">
+</div>
